@@ -1,0 +1,7 @@
+.idea/
+*.eml
+*.iml
+target/
+*.sc
+.bsp/
+.DS_Store
